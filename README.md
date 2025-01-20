@@ -61,7 +61,5 @@ Users can also see the movies they have already watched.
 <hr>
 
 > # Created By : 
--  Issam Zouiten
 -  Chadi Naour
 -  Othmane Es-safi
--  Salah Moudene
